@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Emily Armstrong</h1>
-<h3 align="center">A passionate frontend developer from Philadelphia, PA</h3>
+<h3 align="center">A passionate fullstack developer from Philadelphia, PA</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
