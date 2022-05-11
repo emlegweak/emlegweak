@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://emilyarmstrong.me](emilyarmstrong.me)
+- 👨‍💻 All of my projects are available at [emilyarmstrong.me](https://emilyarmstrong.me)
 
 - 📫 How to reach me **emilythearmstrong@gmail.com**
 
