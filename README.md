@@ -1,7 +1,7 @@
 ![github profile img](https://user-images.githubusercontent.com/97409679/169211560-4a56dfd0-b6e4-4d10-9262-1f76d64d93bd.png)
 
 
-<h1 align="center">Sup!👋, I'm Emily Armstrong</h1>
+<h1 align="center">Sup!👋, I'm Emily</h1>
 <h3 align="center">A passionate, detail-oriented software engineer with a background in education and health care</h3>
 
 - 👨‍💻 Check out my portfolio at [emilyarmstrong.me](https://emilyarmstrong.me)
