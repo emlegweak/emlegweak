@@ -8,9 +8,9 @@
 
 <h3>About me</h3>
 
-<p>I'm a software engineer looking for new opportunities in full stack web development. Currently, I am freelancing and building technology to improve children's access to mental health resources, particularly in school settings. Through my experience in education and as an administrative professional in pediatrics, I observed a lack of resources for education and support with regard to children and their mental health that became more apparent as the COVID-19 pandemic necessitated a transition to remote learning.</p>
+<p>Creative, detail-oriented, software engineer specializing in full stack web development with a deep interest in cloud computing. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills and background in teaching and pediatric health care to a tech company with global reach, and to contribute to meaningful projects within the health and educational space, but that is not a must.</p>
 
-<p>Utilizing the MERN tech stack, I am developing an application called MindFULL, a platform designed as supplemental technology for existing learning management systems to provide students with streamlined access to mental health resources, the ability to self-assess their current state, and the option to communicate directly with their school counselor. I firmly believe that my purpose in life is to lift others up and be an advocate, specifically for children and their opportunities to learn and grow, and want to apply my knowledge of web development to projects that will make a difference. </p>
+<p>Currently freelancing and looking for contract, part-time, or full time opportunities!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
