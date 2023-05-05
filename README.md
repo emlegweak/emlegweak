@@ -9,7 +9,7 @@
 
 <h3>About me</h3>
 
-<p>Creative, detail-oriented, cloud engineer bringing my background in education and healthcare to Foresight Technologies.</p>
+<p>Creative, detail-oriented, cloud engineer bringing my background in education and healthcare to Sela, US (previously Foresight Technologies)!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
