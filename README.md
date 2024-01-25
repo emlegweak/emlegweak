@@ -5,9 +5,11 @@
 <h1 align="center">Sup 👋, I'm Emily</h1>
 <h3 align="center">A passionate, detail-oriented Cloud Engineer from Massachusetts, USA.</h3>
 
-- 🌱 I’m currently learning **AWS, GCP, ML, NLP, GenAI**
+- 🌱 I’m currently learning **AWS, Azure, GCP, ML, NLP, GenAI**
 
 - 💬 Ask me about **AWS, infrastructure as code, CI/CD, full stack web development**
+
+- ✅ I hold the following certifications **AWS Developer Associate DVA-C02, AWS Certified Cloud Practitioner, AWS Partner: Accreditation (Technical)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
