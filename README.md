@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, infrastructure as code, CI/CD, full stack web development**
 
-- ✅ I hold the following certifications **AWS Developer Associate DVA-C02, AWS Certified Cloud Practitioner, AWS Partner: Accreditation (Technical)**
+- ✅ I hold the following certifications: **AWS Developer Associate DVA-C02, AWS Certified Cloud Practitioner, AWS Partner: Accreditation (Technical)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
