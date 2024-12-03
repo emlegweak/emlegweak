@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/97409679/200385304-96e5af5e-8516-46c7-a352-8b3e09936bb5.png)
-
-
-
 <h1 align="center">Sup 👋, I'm Emily</h1>
 <h3 align="center">A passionate, detail-oriented Cloud Engineer from Massachusetts, USA.</h3>
 
