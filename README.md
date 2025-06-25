@@ -1,5 +1,4 @@
 <h1 align="center">Sup 👋, I'm Emily</h1>
-<h3 align="center">A passionate, detail-oriented Cloud Engineer from Massachusetts, USA.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning AWS, Azure, GCP, ML, NLP, GenAI<br>💬 Ask me about AWS, infrastructure as code, CI/CD, full stack web development<br>✅ I hold the following certifications: AWS Developer Associate DVA-C02, AWS Certified Cloud Practitioner, AWS Partner: Accreditation (Technical)
